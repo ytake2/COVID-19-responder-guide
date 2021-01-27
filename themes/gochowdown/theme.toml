@@ -6,6 +6,7 @@ homepage = "https://github.com/seanlane/gochowdown"
 tags = ["recipes", "cooking", "responsive", "clean"]
 features = ["analytics", "favicon"]
 min_version = "0.58"
+publishDir = "docs"
 
 [author]
   name = "Sean Lane"
